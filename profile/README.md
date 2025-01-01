@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="16%" align="center" src="bloret.jpg" alt="logo">
+  <img width="16%" align="center" src="bloret.png" alt="logo">
 </p>
   <h1 align="center">
   Bloret · 百络谷
