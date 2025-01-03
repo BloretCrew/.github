@@ -5,7 +5,7 @@
   Bloret · 百络谷
 </h1>
 <p align="center">
- A Minecraft Server
+ An organization focused on Minecraft
 </p>
 
 # Bloret Github 组织
