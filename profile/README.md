@@ -5,7 +5,7 @@
   Bloret · 百络谷
 </h1>
 <p align="center">
- An organization focused on Minecraft
+ 一个专注于 Minecraft 的组织
 </p>
 
 # Bloret Github 组织
