@@ -8,6 +8,8 @@
  一个专注于 Minecraft 的组织
 </p>
 
+![GitHub User's stars](https://img.shields.io/github/stars/BloretCrew?label=Bloret%20%E6%98%9F%E6%A0%87)
+
 # Bloret Github 组织
 
 「Bloret · 百络谷」
